@@ -1,3 +1,4 @@
+%Author Yu Tao
 %data process
 Ntime=1100;
 Nbase=30;
